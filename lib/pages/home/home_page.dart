@@ -108,6 +108,7 @@ class _HomePageState extends State<HomePage> {
                           ClipRRect(
                             borderRadius: BorderRadius.circular(200),
                             child: Image.network(
+                              fit: BoxFit.cover,
                                 width: 100,
                                 height: 100,
                                 "https://betaapi.theflyhigh.uz/api/Files/${userInfo.profilePicture}"),
