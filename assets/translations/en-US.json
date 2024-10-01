@@ -1,0 +1,23 @@
+{
+  "login": "LOGIN",
+  "welcome_back": "Welcome Back!",
+  "username": "Username",
+  "password": "Password",
+  "login_btn": "Login",
+  "dashboard": "Dashboard",
+  "none": "None",
+  "user_id": "User Id:",
+  "active": "Active:",
+  "total_invites": "Total Invites:",
+  "masters_count": "Masters count:",
+  "managers_count": "Managers count:",
+  "liders_count": "Liders count:",
+  "captains_count": "Captains count:",
+  "barons_count": "Barons count:",
+  "governors_count": "Governors count:",
+  "supremes_count": "Supremes count:",
+  "boss_count": "Boss count:",
+  "logout": "Log Out!",
+  "close": "Close",
+  "logout_btn": "Logout"
+}

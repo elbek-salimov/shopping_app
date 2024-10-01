@@ -1,0 +1,23 @@
+{
+  "login": "KIRISH",
+  "welcome_back": "Qaytib kelganingizdan xursandmiz!",
+  "username": "Foydalanuvchi ismi",
+  "password": "Parol",
+  "login_btn": "Kirish",
+  "dashboard": "Uskunalar paneli",
+  "none": "Yo'q",
+  "user_id": "Foydalanuvchi Idsi:",
+  "active": "Faollik:",
+  "total_invites": "Jami takliflar:",
+  "masters_count": "Ustalar soni:",
+  "managers_count": "Menejerlar soni:",
+  "liders_count": "Yetakchilar soni:",
+  "captains_count": "Kapitanlar soni:",
+  "barons_count": "Baronlar soni:",
+  "governors_count": "Gubernatorlar soni:",
+  "supremes_count": "Supermenlar soni:",
+  "boss_count": "Xo'jayinlar soni:",
+  "logout": "Chiqish!",
+  "close": "Yopish",
+  "logout_btn": "Chiqish"
+}
