@@ -72,8 +72,10 @@ class _HomePageState extends State<HomePage> {
                         onConfirm: () async {
                           await _authRepository.logout();
                           if (!context.mounted) return;
-                          Navigator.pushReplacementNamed(
-                              context, RouteNames.login);
+                          Navigator.pushNamedAndRemoveUntil(
+                              context,
+                              RouteNames.login,
+                              (Route<dynamic> route) => false);
                         },
                       );
                     });
